@@ -18,5 +18,5 @@
 
 ## Homepage
 
-[Back to homepage] (https://www.socialseniorsapp.com)
+[Back to homepage](https://www.socialseniorsapp.com)
 
